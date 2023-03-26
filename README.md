@@ -1,10 +1,7 @@
 # SWT6_UE1_G2_Voraberger
 S2010307040 | Anna Voraberger
-Aufwand:
-9:45-10:15
-17:30-19:00
-19:00-19:45
-9-11
+Aufwand: 5h
+
 
 # timer-bean
 
