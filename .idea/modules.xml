@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ac-control/ac-control.iml" filepath="$PROJECT_DIR$/ac-control/ac-control.iml" />
+      <module fileurl="file://$PROJECT_DIR$/balcony-power-plant/balcony-power-plant.iml" filepath="$PROJECT_DIR$/balcony-power-plant/balcony-power-plant.iml" />
+      <module fileurl="file://$PROJECT_DIR$/home-control-app/home-control-app.iml" filepath="$PROJECT_DIR$/home-control-app/home-control-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/timer-bean/timer-bean.iml" filepath="$PROJECT_DIR$/timer-bean/timer-bean.iml" />
+    </modules>
+  </component>
+</project>
